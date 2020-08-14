@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Course Site</title><link>/</link><description></description><lastBuildDate>Tue, 11 Aug 2020 10:01:00 -1000</lastBuildDate><item><title>ICS 434 - Data Science Fundamentals</title><link>/ics-434-data-science-fundamentals.html</link><description>&lt;!---
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Course Site - teaching</title><link href="/" rel="alternate"></link><link href="/feeds/teaching.atom.xml" rel="self"></link><id>/</id><updated>2020-08-11T10:01:00-10:00</updated><entry><title>ICS 434 - Data Science Fundamentals</title><link href="/ics-434-data-science-fundamentals.html" rel="alternate"></link><published>2020-08-11T10:01:00-10:00</published><updated>2020-08-11T10:01:00-10:00</updated><author><name>MB</name></author><id>tag:None,2020-08-11:/ics-434-data-science-fundamentals.html</id><summary type="html">&lt;!---
+&lt;center&gt;
+&lt;p&gt;&lt;h3&gt;ICS 434 - Data Science Fundamentals&lt;/h3&gt;&lt;/p&gt;
+&lt;/center&gt;
+--&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;table style="width:80%"&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Class hours&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt;TUE &amp;amp; THR 10:30-11:45 PM&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Class Teaching Assistant&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt;Christian Flores&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Office Hours&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt; HOUR TBD or by appointment&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Office&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt; POST 306B&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;&lt;td style="border: 1px solid black;"&gt;&lt;/td&gt;&lt;td style="border: 1px solid black;"&gt;&lt;a href="https://www.dropbox.com/s/jcxgs1k650wda2l/Bioinformatics_course_description.pdf?dl=1"&gt;Course Syllabus&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;h1&gt;Lectures&lt;/h1&gt;
+&lt;p&gt;&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;01/13 - 01/20&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/px0t6kscvg1xr5o/intro_bioinformatics.pdf?dl=1"&gt;Course Logistics &amp;amp; Introduction to Bioinformatics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;h1&gt;Short Projects&lt;/h1&gt;
+&lt;p&gt;&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Tutorial Topics and Teams&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;h1&gt;Short Projects&lt;/h1&gt;
+&lt;p&gt;&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</summary><content type="html">&lt;!---
 &lt;center&gt;
 &lt;p&gt;&lt;h3&gt;ICS 434 - Data Science Fundamentals&lt;/h3&gt;&lt;/p&gt;
 &lt;/center&gt;
@@ -48,7 +87,34 @@
 &lt;h1&gt;Resource&lt;/h1&gt;
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/85ic5o71w136mpc/Installing_Conda.pdf?dl=1"&gt;Installing Conda&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">MB</dc:creator><pubDate>Tue, 11 Aug 2020 10:01:00 -1000</pubDate><guid isPermaLink="false">tag:None,2020-08-11:/ics-434-data-science-fundamentals.html</guid><category>teaching</category></item><item><title>ICS 675 Bioinformatics Sequence Analysis MBIO 740 Advanced Topics in Quantitative Biology</title><link>/ics-675-bioinformatics-sequence-analysis-mbio-740-advanced-topics-in-quantitative-biology.html</link><description>&lt;!---
+&lt;/table&gt;&lt;/p&gt;</content><category term="teaching"></category></entry><entry><title>ICS 675 Bioinformatics Sequence Analysis MBIO 740 Advanced Topics in Quantitative Biology</title><link href="/ics-675-bioinformatics-sequence-analysis-mbio-740-advanced-topics-in-quantitative-biology.html" rel="alternate"></link><published>2020-01-29T10:01:00-10:00</published><updated>2020-01-29T10:01:00-10:00</updated><author><name>MB</name></author><id>tag:None,2020-01-29:/ics-675-bioinformatics-sequence-analysis-mbio-740-advanced-topics-in-quantitative-biology.html</id><summary type="html">&lt;!---
+&lt;center&gt;
+&lt;p&gt;&lt;h3&gt;ICS 675 Bioinformatics Sequence Analysis&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h3&gt;MBIO 740 Advanced Topics in Quantitative Biology&lt;/h3&gt;&lt;/p&gt;
+&lt;/center&gt;
+--&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;table style="width:80%"&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Class hours&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt;MON &amp;amp; WED 01:30-02:45 PM&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Office Hours&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt;ON &amp;amp; WED 3:00-4:00 PM or by appointment&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style="border: 1px solid black;"&gt;&lt;b&gt;Office&lt;/b&gt;&lt;/td&gt;
+    &lt;td style="border: 1px solid black;"&gt; POST 306B&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;&lt;td style="border: 1px solid black;"&gt;&lt;/td&gt;&lt;td style="border: 1px solid black;"&gt;&lt;a href="https://www.dropbox.com/s/jcxgs1k650wda2l/Bioinformatics_course_description.pdf?dl=1"&gt;Course Syllabus&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;h1&gt;Lectures&lt;/h1&gt;
+&lt;p&gt;&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;01/13 - 01/20&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/px0t6kscvg1xr5o/intro_bioinformatics.pdf?dl=1"&gt;Course Logistics &amp;amp; Introduction to Bioinformatics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;01/23 - 01/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/tkdu2dpkgxz7pgv/Introduction_to_biology_1.pdf?dl=1"&gt;Intro to Biology for CS Students&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;01/27 - 01/30&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/q9pxzyqai45z4jl/Intro_computation.pdf?dl=1"&gt;Intro to …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</summary><content type="html">&lt;!---
 &lt;center&gt;
 &lt;p&gt;&lt;h3&gt;ICS 675 Bioinformatics Sequence Analysis&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h3&gt;MBIO 740 Advanced Topics in Quantitative Biology&lt;/h3&gt;&lt;/p&gt;
@@ -114,4 +180,4 @@
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/85ic5o71w136mpc/Installing_Conda.pdf?dl=1"&gt;Installing Conda&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/rag4ixdzoi7rxae/How_to_install_software_with_conda.pdf?dl=1"&gt;Installing Bioinformatics Software Under Conda&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">MB</dc:creator><pubDate>Wed, 29 Jan 2020 10:01:00 -1000</pubDate><guid isPermaLink="false">tag:None,2020-01-29:/ics-675-bioinformatics-sequence-analysis-mbio-740-advanced-topics-in-quantitative-biology.html</guid><category>teaching</category></item></channel></rss>
+&lt;/table&gt;&lt;/p&gt;</content><category term="teaching"></category></entry></feed>
