@@ -34,7 +34,8 @@ Authors: MB
 
 # Lectures
 <table>
-<tr><td>01/13 - 01/20</td><td>[Course Logistics & Introduction to Bioinformatics](https://www.dropbox.com/s/px0t6kscvg1xr5o/intro_bioinformatics.pdf?dl=1)</td></tr>
+<tr><td>08/25</td><td>[Course Logistics](https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1)</td></tr>
+<tr><td>08/25</td><td>[Introduction to Data Science](https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1)</td></tr>
 </table>
 
 
