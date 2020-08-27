@@ -36,6 +36,10 @@ Authors: MB
 <table>
 <tr><td>08/25</td><td>[Course Logistics](https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1)</td></tr>
 <tr><td>08/25</td><td>[Introduction to Data Science](https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1)</td></tr>
+<tr><td>08/27</td><td>Introduction to Data Science -- Cont'd</td></tr>
+<tr><td>08/27</td><td>[Introduction to Data Wrangling and Python Packages](https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1)</td></tr>
+<tr><td>08/27</td><td>[Pandas Series, DataFrames and Indexing Schemes](https://www.dropbox.com/s/ymx39dnlull24t4/3_intro_to_pandas.short.ipynb?dl=1)</td></tr>
+
 </table>
 
 
