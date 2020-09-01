@@ -29,16 +29,8 @@
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1"&gt;Course Logistics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1"&gt;Introduction to Data Science&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
-&lt;h1&gt;Short Projects&lt;/h1&gt;
-&lt;p&gt;&lt;table&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Tutorial Topics and Teams&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
-&lt;h1&gt;Short Projects&lt;/h1&gt;
-&lt;p&gt;&lt;table&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 3 …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</summary><content type="html">&lt;!---
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;Introduction to Data Science -- Cont'd&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1"&gt;Introduction to Data Wrangling and …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</summary><content type="html">&lt;!---
 &lt;center&gt;
 &lt;p&gt;&lt;h3&gt;ICS 434 - Data Science Fundamentals&lt;/h3&gt;&lt;/p&gt;
 &lt;/center&gt;
@@ -68,7 +60,11 @@
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1"&gt;Course Logistics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1"&gt;Introduction to Data Science&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;Introduction to Data Science -- Cont'd&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1"&gt;Introduction to Data Wrangling and Python Packages&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/ymx39dnlull24t4/3_intro_to_pandas.short.ipynb?dl=1"&gt;Pandas Series, DataFrames and Indexing Schemes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;
+&lt;/table&gt;
+
 &lt;h1&gt;Short Projects&lt;/h1&gt;
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Tutorial Topics and Teams&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
