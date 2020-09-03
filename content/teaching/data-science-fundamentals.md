@@ -47,7 +47,7 @@ Authors: MB
 # Short Projects
 <table>
 <tr><td>[Tutorial Topics](https://www.dropbox.com/s/d2czey2p0cepm90/Proposed_turtorials.docx?dl=1)</td></tr>
-<tr><td>[Writing and reviews assignments]()</td></tr>
+<tr><td>[Writing assignments](https://www.dropbox.com/s/xvqpzvnpuz2e012/Tutorials_assignments.xlsx?dl=1)</td></tr>
 </table>
 
 
