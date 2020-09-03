@@ -39,12 +39,15 @@ Authors: MB
 <tr><td>08/27</td><td>Introduction to Data Science -- Cont'd</td></tr>
 <tr><td>08/27</td><td>[Introduction to Data Wrangling and Python Packages](https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1)</td></tr>
 <tr><td>08/27</td><td>[Pandas Series, DataFrames and Indexing Schemes](https://www.dropbox.com/s/ymx39dnlull24t4/3_intro_to_pandas.short.ipynb?dl=1)</td></tr>
+<tr><td>09/01</td><td>[Exploring Data 1](https://www.dropbox.com/s/dndneqzp30yc716/4_Exploring_data.short.ipynb?dl=1)</td></tr>
+<tr><td>09/01</td><td>[Exploring Data 2](https://www.dropbox.com/s/jt6iqvqlykoj88w/5_Exploring_Data_3.short.ipynb?dl=1)</td></tr>
+<tr><td>09/03</td><td>Data Wrangling -- Simple use case -- Cont'd</td></tr>
 
 </table>
 
 
 
-# Short Projects
+# Tutorials
 <table>
 <tr><td>[Tutorial Topics](https://www.dropbox.com/s/d2czey2p0cepm90/Proposed_turtorials.docx?dl=1)</td></tr>
 <tr><td>[Writing assignments](https://www.dropbox.com/s/xvqpzvnpuz2e012/Tutorials_assignments.xlsx?dl=1)</td></tr>
