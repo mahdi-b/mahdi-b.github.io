@@ -53,6 +53,7 @@ Authors: MB
 <tr><td>[Tutorial Topics](https://www.dropbox.com/s/d2czey2p0cepm90/Proposed_turtorials.docx?dl=1)</td></tr>
 <tr><td>[Writing assignments](https://www.dropbox.com/s/xvqpzvnpuz2e012/Tutorials_assignments.xlsx?dl=1)</td></tr>
 <tr><td>[Reviewing assignments](https://www.dropbox.com/s/pdvz12xjprj0if1/tutorial_review_assignments.xlsx?dl=1)</td></tr>
+<tr><td>[Tutorial Writing Guidelines](https://www.dropbox.com/s/8wxo8gomaavdei1/tutorial_writing_instructions.docx?dl=1)</td></tr>
 <tr><td>[Tutorial Reviewing Form]()</td></tr>
 </table>
 
@@ -70,7 +71,7 @@ Authors: MB
 # Final Project
 <table>
 <tr><td>[Final Projects Proposals Received (ICS 691D)]()</td></tr>
-<tr><td>[Final Project Guidelines](https://www.dropbox.com/s/a1efffmdjbxw65g/final_project_guidelines.pdf?dl=1)</td></tr>
+<tr><td>[Final Project Guidelines]()</td></tr>
 </table>
 
 
