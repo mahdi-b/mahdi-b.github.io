@@ -52,6 +52,8 @@ Authors: MB
 <table>
 <tr><td>[Tutorial Topics](https://www.dropbox.com/s/d2czey2p0cepm90/Proposed_turtorials.docx?dl=1)</td></tr>
 <tr><td>[Writing assignments](https://www.dropbox.com/s/xvqpzvnpuz2e012/Tutorials_assignments.xlsx?dl=1)</td></tr>
+<tr><td>[Reviewing assignments](https://www.dropbox.com/s/pdvz12xjprj0if1/tutorial_review_assignments.xlsx?dl=1)</td></tr>
+<tr><td>[Tutorial Reviewing Form]()</td></tr>
 </table>
 
 
