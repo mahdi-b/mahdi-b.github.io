@@ -45,7 +45,7 @@ Authors: MB
 <tr><td>09/03</td><td>Data Wrangling -- Simple use case -- Cont'd</td></tr>
 <tr><td>09/08</td><td>[Split-Apply-Combine](https://www.dropbox.com/s/ea5cliw7t5xl59o/7_Data_Preparation_and_Cleaning_2.short.ipynb?dl=1)</td></tr>
 <tr><td>09/10</td><td>[Hierachical Indexes & Joining and Stacking DataFrames and Series](https://www.dropbox.com/s/7telamm1j21wye2/8_joining_dataframes.ipynb?dl=1)</td></tr>
-<tr><td>09/10</td><td>[Introduction to Probability](https://www.dropbox.com/s/xfhs965gt9hrjbr/9_intro_probability.ipynb?dl=1)</td></tr>
+<tr><td>09/10</td><td>[Introduction to Probability](https://www.dropbox.com/s/wzhtafqzg5srpxt/9_intro_probability.ipynb?dl=1)</td></tr>
 <tr><td>09/15</td><td>Introduction to Probability -- Cont'd</td></tr>
 <tr><td>09/15</td><td>[Prob. Distributions: Binomial](https://www.dropbox.com/s/jsljej4gvslzo7i/10_probability_distributions.ipynb?dl=1)</td></tr>
 <tr><td>09/17</td><td>Prob. Distributions: Binomial -- Cont'd</td></tr>
