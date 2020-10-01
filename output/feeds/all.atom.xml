@@ -26,11 +26,11 @@
   &lt;tr&gt;&lt;td style="border: 1px solid black;"&gt;&lt;/td&gt;&lt;td style="border: 1px solid black;"&gt;&lt;a href="https://www.dropbox.com/s/18era23lp6slqg6/course_syllabus.pdf?dl=1"&gt;Course Syllabus&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;/p&gt;
 &lt;h1&gt;Lectures&lt;/h1&gt;
-&lt;p&gt;&lt;table&gt;
-&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1"&gt;Course Logistics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1"&gt;Introduction to Data Science&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;Introduction to Data Science -- Cont'd&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1"&gt;Introduction to Data Wrangling and …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</summary><content type="html">&lt;!---
+&lt;table&gt;
+
+&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;[Course Logistics](https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;[Introduction to Data Science](https://www.dropbox.com …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;!---
 &lt;center&gt;
 &lt;p&gt;&lt;h3&gt;ICS 434 - Data Science Fundamentals&lt;/h3&gt;&lt;/p&gt;
 &lt;/center&gt;
@@ -57,23 +57,59 @@
   &lt;tr&gt;&lt;td style="border: 1px solid black;"&gt;&lt;/td&gt;&lt;td style="border: 1px solid black;"&gt;&lt;a href="https://www.dropbox.com/s/18era23lp6slqg6/course_syllabus.pdf?dl=1"&gt;Course Syllabus&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;/p&gt;
 &lt;h1&gt;Lectures&lt;/h1&gt;
-&lt;p&gt;&lt;table&gt;
-&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1"&gt;Course Logistics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1"&gt;Introduction to Data Science&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;table&gt;
+
+&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;[Course Logistics](https://www.dropbox.com/s/z127p4hd89qboex/course_logisitics.pptx?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;08/25&lt;/td&gt;&lt;td&gt;[Introduction to Data Science](https://www.dropbox.com/s/wa3nfjyrr0vtf4v/1_Introduction.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
 &lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;Introduction to Data Science -- Cont'd&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1"&gt;Introduction to Data Wrangling and Python Packages&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/ymx39dnlull24t4/3_intro_to_pandas.short.ipynb?dl=1"&gt;Pandas Series, DataFrames and Indexing Schemes&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/01&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/dndneqzp30yc716/4_Exploring_data.short.ipynb?dl=1"&gt;Exploring Data 1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/01&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/jt6iqvqlykoj88w/5_Exploring_Data_3.short.ipynb?dl=1"&gt;Exploring Data 2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/01&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/siprxbaoexkqu6g/6_Data_Preparation_and_Cleaning.short.ipynb?dl=1"&gt;Data Wrangling -- Simple use case&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;[Introduction to Data Wrangling and Python Packages](https://www.dropbox.com/s/20w03nnebx6cs9r/2_Intro_to_the_pandas_Python_package.short.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;08/27&lt;/td&gt;&lt;td&gt;[Pandas Series, DataFrames and Indexing Schemes](https://www.dropbox.com/s/ymx39dnlull24t4/3_intro_to_pandas.short.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/01&lt;/td&gt;&lt;td&gt;[Exploring Data 1](https://www.dropbox.com/s/dndneqzp30yc716/4_Exploring_data.short.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/01&lt;/td&gt;&lt;td&gt;[Exploring Data 2](https://www.dropbox.com/s/jt6iqvqlykoj88w/5_Exploring_Data_3.short.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/01&lt;/td&gt;&lt;td&gt;[Data Wrangling -- Simple use case](https://www.dropbox.com/s/siprxbaoexkqu6g/6_Data_Preparation_and_Cleaning.short.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
 &lt;tr&gt;&lt;td&gt;09/03&lt;/td&gt;&lt;td&gt;Data Wrangling -- Simple use case -- Cont'd&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/08&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/ea5cliw7t5xl59o/7_Data_Preparation_and_Cleaning_2.short.ipynb?dl=1"&gt;Split-Apply-Combine&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/10&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/7telamm1j21wye2/8_joining_dataframes.ipynb?dl=1"&gt;Hierachical Indexes &amp;amp; Joining and Stacking DataFrames and Series&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/10&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/wzhtafqzg5srpxt/9_intro_probability.ipynb?dl=1"&gt;Introduction to Probability&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/08&lt;/td&gt;&lt;td&gt;[Split-Apply-Combine](https://www.dropbox.com/s/ea5cliw7t5xl59o/7_Data_Preparation_and_Cleaning_2.short.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/10&lt;/td&gt;&lt;td&gt;[Hierachical Indexes &amp; Joining and Stacking DataFrames and Series](https://www.dropbox.com/s/7telamm1j21wye2/8_joining_dataframes.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/10&lt;/td&gt;&lt;td&gt;[Introduction to Probability](https://www.dropbox.com/s/wzhtafqzg5srpxt/9_intro_probability.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
 &lt;tr&gt;&lt;td&gt;09/15&lt;/td&gt;&lt;td&gt;Introduction to Probability -- Cont'd&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/15&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/jsljej4gvslzo7i/10_probability_distributions.ipynb?dl=1"&gt;Prob. Distributions: Binomial&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/15&lt;/td&gt;&lt;td&gt;[Prob. Distributions: Binomial](https://www.dropbox.com/s/jsljej4gvslzo7i/10_probability_distributions.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
 &lt;tr&gt;&lt;td&gt;09/17&lt;/td&gt;&lt;td&gt;Prob. Distributions: Binomial -- Cont'd&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;09/17&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/jkfy7kncaxkuzho/11_probability_distributions_gaussian.ipynb?dl=1"&gt;Prob. Distributions: Normal&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;
+
+&lt;tr&gt;&lt;td&gt;09/17&lt;/td&gt;&lt;td&gt;[Prob. Distributions: Normal](https://www.dropbox.com/s/jkfy7kncaxkuzho/11_probability_distributions_gaussian.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/15&lt;/td&gt;&lt;td&gt;Introduction to Probability -- Cont'd&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/15&lt;/td&gt;&lt;td&gt;[Prob. Distributions: Binomial](https://www.dropbox.com/s/jsljej4gvslzo7i/10_probability_distributions.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/17&lt;/td&gt;&lt;td&gt;Prob. Distributions: Binomial -- Cont'd&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/17&lt;/td&gt;&lt;td&gt;[Prob. Distributions: Normal](https://www.dropbox.com/s/jkfy7kncaxkuzho/11_probability_distributions_gaussian.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/22&lt;/td&gt;&lt;td&gt;[Probability Distributions: Poisson and Negative Bionomial](https://www.dropbox.com/s/hvxhyhnknegatjy/12_probability_distributions_poisson_negbinom.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;09/22&lt;/td&gt;&lt;td&gt;[Kernel Density Estimation](https://www.dropbox.com/s/z5axyr3hak8fh5w/13_kernel_density_estimation.ipynb?dl=1)&lt;/td&gt;&lt;/tr
+&lt;tr&gt;&lt;td&gt;09/24&lt;/td&gt;&lt;td&gt;Kernel Density Estimation - Cont'd&lt;/td&gt;&lt;/tr
+&gt;&lt;tr&gt;&lt;td&gt;09/24&lt;/td&gt;&lt;td&gt;[Kernel Denstiy Estimation: Bandwidth](https://www.dropbox.com/s/b2aqonsltrns8ab/14_KDE_bandwidth.ipynb?dl=1)&lt;/td&gt;&lt;/tr&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;tr&gt;&lt;td&gt;09/29&lt;/td&gt;&lt;td&gt;Kernel Denstiy Estimation: Bandwidth - Cont'd&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;09/29&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/b5bn3ky5820awf6/15_practical.ipynb?dl=1"&gt;KDE: Estimating the Bandwidth using Cross Validation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10/01&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/fk8zmce87hwjowj/16_Introduction-to_CDF.ipynb?dl=1"&gt;Cumulative Distribution Function&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/table&gt;
 
 &lt;h1&gt;Tutorials&lt;/h1&gt;
