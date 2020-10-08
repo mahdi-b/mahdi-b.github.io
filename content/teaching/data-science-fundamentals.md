@@ -26,7 +26,7 @@ Authors: MB
     <td style="border: 1px solid black;"><b>Office</b></td>
     <td style="border: 1px solid black;"> POST 306B</td>
   </tr>
-  <tr><td style="border: 1px solid black;"></td><td style="border: 1px solid black;">[Course Syllabus](https://www.dropbox.com/s/18era23lp6slqg6/course_syllabus.pdf?dl=1)</td></tr>
+  <tr><td style="border: 1px solid black;"></td><td style="border: 1px solid black;">[Course Syllabus](https://www.dropbox.com/s/18era23lp6slqg6/course_syllabus.pdf?dl=1)<br/>[Important Due Dates](https://www.dropbox.com/s/rjkf8ihdbun3tnr/Weekly_Plan.xlsx?dl=1)</td></tr>
 </table>
 
 
