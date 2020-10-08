@@ -75,14 +75,13 @@ Authors: MB
 </table>
 
 
-
 # Short Projects
 <table>
-<tr><td>Assignment</td><td>Due date</td></tr>
-<tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>9/24/20</td></tr>
-<tr><td>[Assignment 2]()</td></tr>
-<tr><td>[Assignment 3]()</td></tr>
-<tr><td>[Assignment 4]()</td></tr>
+<tr><td>Assignment</td><td></td><td>Due date</td></tr>
+<tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>[Solution](https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1)</td><td>9/24/20</td></tr>
+<tr><td>[Assignment 2]()</td><td></td><td></td></tr>
+<tr><td>[Assignment 3]()</td><td></td><td></td></tr>
+<tr><td>[Assignment 4]()</td><td></td><td></td></tr>
 </table>
 
 
