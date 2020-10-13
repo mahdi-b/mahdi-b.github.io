@@ -61,25 +61,37 @@ Authors: MB
 <tr><td>09/29</td><td>Kernel Denstiy Estimation: Bandwidth - Cont'd</td></tr>
 <tr><td>09/29</td><td>[KDE: Estimating the Bandwidth using Cross Validation](https://www.dropbox.com/s/b5bn3ky5820awf6/15_practical.ipynb?dl=1)</td></tr>
 <tr><td>10/01</td><td>[Cumulative Distribution Function](https://www.dropbox.com/s/fk8zmce87hwjowj/16_Introduction-to_CDF.ipynb?dl=1)</td></tr>
+<tr><td>10/06</td><td>[Samplging Uisng the CDF](https://www.dropbox.com/s/35ba5qzqptvwcu6/17_sampling_using_uniform.ipynb?dl=1)</td></tr>
+<tr><td>10/06</td><td>[CDF and Hypothesis Testing](https://www.dropbox.com/s/b70icc1uec35zbf/18_KS.ipynb?dl=1)</td></tr>
+<tr><td>10/08</td><td>CDF and Hypothesis Testing and Bootstrap -- Cont'd</td></tr>
+<tr><td>10/08</td><td>[Bootstrap for Parameter Estimation](https://www.dropbox.com/s/o6gauzivux23eff/19_params_and_bootstrapping.ipynb?dl=1)</td></tr>
 </table>
 
 
 
-# Tutorials
+# Tutorials 
 <table>
 <tr><td>[Tutorial Topics](https://www.dropbox.com/s/d2czey2p0cepm90/Proposed_turtorials.docx?dl=1)</td></tr>
 <tr><td>[Writing assignments](https://www.dropbox.com/s/xvqpzvnpuz2e012/Tutorials_assignments.xlsx?dl=1)</td></tr>
 <tr><td>[Reviewing assignments](https://www.dropbox.com/s/pdvz12xjprj0if1/tutorial_review_assignments.xlsx?dl=1)</td></tr>
 <tr><td>[Tutorial Writing Guidelines](https://www.dropbox.com/s/8wxo8gomaavdei1/tutorial_writing_instructions.docx?dl=1)</td></tr>
-<tr><td>[Tutorial Reviewing Form]()</td></tr>
+<tr><td>[Tutorial Reviewing Form](https://www.cognitoforms.com/MahdiBelcaid/TutorialReviewForm)</td></tr>
 </table>
+
+# List of Submitted Tutorials
+<table>
+<tr><td>[Tutorial on Data Formats and Dask](https://www.dropbox.com/s/e0ibn20gs02nw16/Dask%20Tutorial.ipynb?dl=1)</td></tr>
+</table>
+
+
+
 
 
 # Short Projects
 <table>
 <tr><td>Assignment</td><td></td><td>Due date</td></tr>
-<tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>[Solution](https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1)</td><td>9/24/20</td></tr>
-<tr><td>[Assignment 2]()</td><td></td><td></td></tr>
+<tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>[Solution](https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1)</td><td>9/24/2020</td></tr>
+<tr><td>[Assignment 2](https://classroom.github.com/a/AWCmSKfa)</td><td> -- </td><td>10/22/2020</td></tr>
 <tr><td>[Assignment 3]()</td><td></td><td></td></tr>
 <tr><td>[Assignment 4]()</td><td></td><td></td></tr>
 </table>
