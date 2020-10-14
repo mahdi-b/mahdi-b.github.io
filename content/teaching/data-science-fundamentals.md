@@ -64,7 +64,9 @@ Authors: MB
 <tr><td>10/06</td><td>[Samplging Uisng the CDF](https://www.dropbox.com/s/35ba5qzqptvwcu6/17_sampling_using_uniform.ipynb?dl=1)</td></tr>
 <tr><td>10/06</td><td>[CDF and Hypothesis Testing](https://www.dropbox.com/s/b70icc1uec35zbf/18_KS.ipynb?dl=1)</td></tr>
 <tr><td>10/08</td><td>CDF and Hypothesis Testing and Bootstrap -- Cont'd</td></tr>
-<tr><td>10/08</td><td>[Bootstrap for Parameter Estimation](https://www.dropbox.com/s/o6gauzivux23eff/19_params_and_bootstrapping.ipynb?dl=1)</td></tr>
+<tr><td>10/08</td><td>[Parameter Estimation: Bootstrap](https://www.dropbox.com/s/o6gauzivux23eff/19_params_and_bootstrapping.ipynb?dl=1)</td></tr>
+<tr><td>10/13</td><td>[Parameter Estimation: Maximum Likelihood ](https://www.dropbox.com/s/sagtojvfyksdco4/20_maximum_likelihood.ipynb?dl=1)</td></tr>
+<tr><td>10/13</td><td>[Parameter Estimation: Approximate Bayesian ](https://www.dropbox.com/s/dc7dy5325pq8hlk/21_Approximate_Bayesian_for_Estimation.ipynb?dl=1)</td></tr>
 </table>
 
 
