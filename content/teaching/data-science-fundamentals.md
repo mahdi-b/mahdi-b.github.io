@@ -66,7 +66,7 @@ Authors: MB
 <tr><td>10/08</td><td>CDF and Hypothesis Testing and Bootstrap -- Cont'd</td></tr>
 <tr><td>10/08</td><td>[Parameter Estimation: Bootstrap](https://www.dropbox.com/s/o6gauzivux23eff/19_params_and_bootstrapping.ipynb?dl=1)</td></tr>
 <tr><td>10/13</td><td>[Parameter Estimation: Maximum Likelihood ](https://www.dropbox.com/s/sagtojvfyksdco4/20_maximum_likelihood.ipynb?dl=1)</td></tr>
-<tr><td>10/13</td><td>[Parameter Estimation: Approximate Bayesian ](https://www.dropbox.com/s/dc7dy5325pq8hlk/21_Approximate_Bayesian_for_Estimation.ipynb?dl=1)</td></tr>
+<tr><td>10/15</td><td>Parameter Estimation: Approximate Bayesian -- Cont'd</td></tr>
 </table>
 
 
