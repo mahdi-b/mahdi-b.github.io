@@ -67,8 +67,10 @@ Authors: MB
 <tr><td>10/08</td><td>[Parameter Estimation: Bootstrap](https://www.dropbox.com/s/o6gauzivux23eff/19_params_and_bootstrapping.ipynb?dl=1)</td></tr>
 <tr><td>10/13</td><td>[Parameter Estimation: Maximum Likelihood ](https://www.dropbox.com/s/sagtojvfyksdco4/20_maximum_likelihood.ipynb?dl=1)</td></tr>
 <tr><td>10/15</td><td>Parameter Estimation: Approximate Bayesian -- Cont'd</td></tr>
+<tr><td>10/20</td><td>[Hypothesis Testing Review](https://www.dropbox.com/s/21avd9igwtl7w8h/22_hypothesis_testing_review.ipynb?dl=1)</td></tr>
+<tr><td>10/20</td><td>[Measuring Effect Size](https://www.dropbox.com/s/r95gi6svp3jkccv/23_effect_size.ipynb?dl=1)</td></tr>
+<tr><td>10/22</td><td>[Introduction to Clustering](https://www.dropbox.com/s/md0kglyxbwj2xhl/24_clustering.ipynb?dl=1)</td></tr>
 </table>
-
 
 
 # Tutorials 
