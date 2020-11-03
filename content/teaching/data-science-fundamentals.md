@@ -70,7 +70,11 @@ Authors: MB
 <tr><td>10/20</td><td>[Hypothesis Testing Review](https://www.dropbox.com/s/21avd9igwtl7w8h/22_hypothesis_testing_review.ipynb?dl=1)</td></tr>
 <tr><td>10/20</td><td>[Measuring Effect Size](https://www.dropbox.com/s/r95gi6svp3jkccv/23_effect_size.ipynb?dl=1)</td></tr>
 <tr><td>10/22</td><td>[Introduction to Clustering](https://www.dropbox.com/s/md0kglyxbwj2xhl/24_clustering.ipynb?dl=1)</td></tr>
+<tr><td>10/22</td><td>[K-Means Clustering](https://www.dropbox.com/s/4uk076m1d2enjys/25_kmeans.ipynb?dl=1)</td></tr>
+<tr><td>10/22</td><td>K-Means Clustering - Cont'd and Silhouette Index</td></tr>
 </table>
+
+
 
 
 # Tutorials 
