@@ -72,6 +72,10 @@ Authors: MB
 <tr><td>10/22</td><td>[Introduction to Clustering](https://www.dropbox.com/s/md0kglyxbwj2xhl/24_clustering.ipynb?dl=1)</td></tr>
 <tr><td>10/22</td><td>[K-Means Clustering](https://www.dropbox.com/s/4uk076m1d2enjys/25_kmeans.ipynb?dl=1)</td></tr>
 <tr><td>10/22</td><td>K-Means Clustering - Cont'd and Silhouette Index</td></tr>
+<tr><td>11/3</td><td>[]()</td></tr>
+<tr><td>11/5</td><td>[Gaussian Mixture Models](https://www.dropbox.com/s/c98gotlo04sy7c0/Mixture_Models.ipynb?dl=1)</td></tr>
+<tr><td>11/10</td><td>Gaussian Mixture Models -- cont'd</td></tr>
+<tr><td>11/10</td><td>[Introduction to Time Series](https://www.dropbox.com/s/qsv7yd0dnmcr8ae/time_series_regression_based.ipynb?dl=1)</td></tr>
 </table>
 
 
@@ -89,6 +93,9 @@ Authors: MB
 # List of Submitted Tutorials
 <table>
 <tr><td>[Tutorial on Data Formats and Dask](https://www.dropbox.com/s/e0ibn20gs02nw16/Dask%20Tutorial.ipynb?dl=1)</td></tr>
+<tr><td>[Dirichlet Topic Modeling]()</td></tr>
+<tr><td>[Parameter Estimation in Topic Modeling]()</td></tr>
+<tr><td>[ANOVA and co.]()</td></tr>
 </table>
 
 
@@ -100,7 +107,7 @@ Authors: MB
 <tr><td>Assignment</td><td></td><td>Due date</td></tr>
 <tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>[Solution](https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1)</td><td>9/24/2020</td></tr>
 <tr><td>[Assignment 2](https://classroom.github.com/a/AWCmSKfa)</td><td> -- </td><td>10/22/2020</td></tr>
-<tr><td>[Assignment 3]()</td><td></td><td></td></tr>
+<tr><td>[Assignment 3](https://classroom.github.com/a/JbBxjB-N)</td><td></td><td></td></tr>
 <tr><td>[Assignment 4]()</td><td></td><td></td></tr>
 </table>
 
