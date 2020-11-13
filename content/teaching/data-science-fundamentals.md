@@ -72,7 +72,7 @@ Authors: MB
 <tr><td>10/22</td><td>[Introduction to Clustering](https://www.dropbox.com/s/md0kglyxbwj2xhl/24_clustering.ipynb?dl=1)</td></tr>
 <tr><td>10/22</td><td>[K-Means Clustering](https://www.dropbox.com/s/4uk076m1d2enjys/25_kmeans.ipynb?dl=1)</td></tr>
 <tr><td>10/22</td><td>K-Means Clustering - Cont'd and Silhouette Index</td></tr>
-<tr><td>11/3</td><td>[]()</td></tr>
+<tr><td>11/3</td><td> Holiday</td></tr>
 <tr><td>11/5</td><td>[Gaussian Mixture Models](https://www.dropbox.com/s/c98gotlo04sy7c0/Mixture_Models.ipynb?dl=1)</td></tr>
 <tr><td>11/10</td><td>Gaussian Mixture Models -- cont'd</td></tr>
 <tr><td>11/10</td><td>[Introduction to Time Series](https://www.dropbox.com/s/qsv7yd0dnmcr8ae/time_series_regression_based.ipynb?dl=1)</td></tr>
