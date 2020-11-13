@@ -93,9 +93,10 @@ Authors: MB
 # List of Submitted Tutorials
 <table>
 <tr><td>[Tutorial on Data Formats and Dask](https://www.dropbox.com/s/e0ibn20gs02nw16/Dask%20Tutorial.ipynb?dl=1)</td></tr>
-<tr><td>[Dirichlet Topic Modeling]()</td></tr>
-<tr><td>[Parameter Estimation in Topic Modeling]()</td></tr>
-<tr><td>[ANOVA and co.]()</td></tr>
+<tr><td>[Dirichlet Topic Modeling](https://www.dropbox.com/s/5wuvgn6vecemh2v/Dirichlet.zip?dl=1)</td></tr>
+<tr><td>[Parameter Estimation in Topic Modeling](https://www.dropbox.com/s/lzs09ev2unh2oaq/parameter_estimation.zip?dl=1)</td></tr>
+<tr><td>[ANOVA and co.](https://www.dropbox.com/s/5pyiw7lhv5t0s7s/Anova_and_co.zip?dl=1)</td></tr>
+<tr><td>[Algorithms for Clustering Graph Data](https://www.dropbox.com/s/g8mvgcf9ghp1adh/graph_clustering.zip?dl=1)</td></tr>
 </table>
 
 
@@ -106,7 +107,7 @@ Authors: MB
 <table>
 <tr><td>Assignment</td><td></td><td>Due date</td></tr>
 <tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>[Solution](https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1)</td><td>9/24/2020</td></tr>
-<tr><td>[Assignment 2](https://classroom.github.com/a/AWCmSKfa)</td><td> -- </td><td>10/22/2020</td></tr>
+<tr><td>[Assignment 2](https://classroom.github.com/a/AWCmSKfa)</td><td>[Solution](https://www.dropbox.com/s/jdixgtect9xncns/Assignment_2_with_sol.ipynb?dl=1) </td><td>10/22/2020</td></tr>
 <tr><td>[Assignment 3](https://classroom.github.com/a/JbBxjB-N)</td><td></td><td></td></tr>
 <tr><td>[Assignment 4]()</td><td></td><td></td></tr>
 </table>

@@ -96,6 +96,10 @@
 &lt;tr&gt;&lt;td&gt;10/22&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/md0kglyxbwj2xhl/24_clustering.ipynb?dl=1"&gt;Introduction to Clustering&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;10/22&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/4uk076m1d2enjys/25_kmeans.ipynb?dl=1"&gt;K-Means Clustering&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;10/22&lt;/td&gt;&lt;td&gt;K-Means Clustering - Cont'd and Silhouette Index&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11/3&lt;/td&gt;&lt;td&gt; Holiday&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11/5&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/c98gotlo04sy7c0/Mixture_Models.ipynb?dl=1"&gt;Gaussian Mixture Models&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11/10&lt;/td&gt;&lt;td&gt;Gaussian Mixture Models -- cont'd&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11/10&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/qsv7yd0dnmcr8ae/time_series_regression_based.ipynb?dl=1"&gt;Introduction to Time Series&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;/p&gt;
 &lt;h1&gt;Tutorials&lt;/h1&gt;
 &lt;p&gt;&lt;table&gt;
@@ -108,13 +112,16 @@
 &lt;h1&gt;List of Submitted Tutorials&lt;/h1&gt;
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/e0ibn20gs02nw16/Dask%20Tutorial.ipynb?dl=1"&gt;Tutorial on Data Formats and Dask&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Dirichlet Topic Modeling&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Parameter Estimation in Topic Modeling&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;ANOVA and co.&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;/p&gt;
 &lt;h1&gt;Short Projects&lt;/h1&gt;
 &lt;p&gt;&lt;table&gt;
 &lt;tr&gt;&lt;td&gt;Assignment&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Due date&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href="https://classroom.github.com/a/zYPwxMIt"&gt;Assignment 1&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href="https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1"&gt;Solution&lt;/a&gt;&lt;/td&gt;&lt;td&gt;9/24/2020&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href="https://classroom.github.com/a/AWCmSKfa"&gt;Assignment 2&lt;/a&gt;&lt;/td&gt;&lt;td&gt; -- &lt;/td&gt;&lt;td&gt;10/22/2020&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 3&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href="https://classroom.github.com/a/JbBxjB-N"&gt;Assignment 3&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=""&gt;Assignment 4&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;/p&gt;
 &lt;h1&gt;Final Project&lt;/h1&gt;
