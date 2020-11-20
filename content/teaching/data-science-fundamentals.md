@@ -76,6 +76,9 @@ Authors: MB
 <tr><td>11/5</td><td>[Gaussian Mixture Models](https://www.dropbox.com/s/c98gotlo04sy7c0/Mixture_Models.ipynb?dl=1)</td></tr>
 <tr><td>11/10</td><td>Gaussian Mixture Models -- cont'd</td></tr>
 <tr><td>11/10</td><td>[Introduction to Time Series](https://www.dropbox.com/s/qsv7yd0dnmcr8ae/time_series_regression_based.ipynb?dl=1)</td></tr>
+<tr><td>11/12</td><td>[Time Series Regression-based Models](https://www.dropbox.com/s/qsv7yd0dnmcr8ae/time_series_regression_based.ipynb?dl=1)</td></tr>
+<tr><td>11/15</td><td>Time Series Regression-based Models - Cont'd</td></tr>
+<tr><td>11/17</td><td>[Exponential Smoothing](https://www.dropbox.com/s/j04n9k6x6s8ovpj/Exponential_Smoothing.ipynb?dl=1)</td></tr>
 </table>
 
 
