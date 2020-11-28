@@ -100,6 +100,7 @@ Authors: MB
 <tr><td>[ANOVA and co.](https://www.dropbox.com/s/5pyiw7lhv5t0s7s/Anova_and_co.zip?dl=1)</td></tr>
 <tr><td>[Algorithms for Clustering Graph Data](https://www.dropbox.com/s/g8mvgcf9ghp1adh/graph_clustering.zip?dl=1)</td></tr>
 <tr><td>[Survival Analysis](https://www.dropbox.com/s/pxd23q6tbxpv8pj/survival_analysis_tutorial-main.zip?dl=1)</td></tr>
+<tr><td>[Understanding Deep Learning Through Linear Regression](https://www.dropbox.com/s/uovizyhi14arioh/deep_learning.zip?dl=1)</td></tr>
 </table>
 
 
