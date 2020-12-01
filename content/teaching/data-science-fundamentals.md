@@ -113,7 +113,7 @@ Authors: MB
 <tr><td>[Assignment 1](https://classroom.github.com/a/zYPwxMIt)</td><td>[Solution](https://www.dropbox.com/s/iybne86h90sjmym/Assignment_1_with_sol.ipynb?dl=1)</td><td>9/24/2020</td></tr>
 <tr><td>[Assignment 2](https://classroom.github.com/a/AWCmSKfa)</td><td>[Solution](https://www.dropbox.com/s/jdixgtect9xncns/Assignment_2_with_sol.ipynb?dl=1) </td><td>10/22/2020</td></tr>
 <tr><td>[Assignment 3](https://classroom.github.com/a/JbBxjB-N)</td><td></td><td></td></tr>
-<tr><td>[Assignment 4]()</td><td></td><td></td></tr>
+<tr><td>[Assignment 4](https://classroom.github.com/a/P6eOBS2b)</td><td></td><td></td></tr>
 </table>
 
 
