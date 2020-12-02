@@ -81,8 +81,8 @@ Authors: MB
 <tr><td>11/17</td><td>[Exponential Smoothing](https://www.dropbox.com/s/j04n9k6x6s8ovpj/Exponential_Smoothing.ipynb?dl=1)</td></tr>
 <tr><td>11/19</td><td>Exponential Smoothing - Cont'd</td></tr>
 <tr><td>11/24</td><td>[Linear Regression](https://www.dropbox.com/s/iiqaz7qsfri6nza/linear_regression.ipynb?dl=1)</td></tr>
-<tr><td>11/24</td><td>[Correlation](https://www.dropbox.com/s/0ffh348fdx5r5be/correlations.ipynb?dl=1)</td></tr>
-<tr><td>11/24</td><td>Linear Regression - Cont'd</td></tr>
+<tr><td>12/01</td><td>[Correlation](https://www.dropbox.com/s/0ffh348fdx5r5be/correlations.ipynb?dl=1)</td></tr>
+<tr><td>12/03</td><td>Linear Regression - Cont'd</td></tr>
 </table>
 
 
