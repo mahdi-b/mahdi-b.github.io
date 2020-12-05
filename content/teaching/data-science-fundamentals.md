@@ -83,7 +83,7 @@ Authors: MB
 <tr><td>11/24</td><td>[Linear Regression](https://www.dropbox.com/s/iiqaz7qsfri6nza/linear_regression.ipynb?dl=1)</td></tr>
 <tr><td>12/01</td><td>[Correlation](https://www.dropbox.com/s/0ffh348fdx5r5be/correlations.ipynb?dl=1)</td></tr>
 <tr><td>12/03</td><td>Linear Regression - Cont'd</td></tr>
-<tr><td>12/03</td><td>[Non-Linear Regression](https://www.dropbox.com/s/s6mqs82z9tajngv/non_linear_regression.ipynb?dl=1)</td></tr>
+<tr><td>12/03</td><td>[Non-Linear (Curvilinear) Regression](https://www.dropbox.com/s/s6mqs82z9tajngv/non_linear_regression.ipynb?dl=1)</td></tr>
 </table>
 
 
