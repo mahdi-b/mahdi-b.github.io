@@ -1,0 +1,28 @@
+<div class="col-md-4">
+    <div class="card">
+        <a href="{{ person.redirect | default: person.url | relative_url }}">
+            {%- if person.img -%}
+            <img class="card-img-top" src="{{ person.img | relative_url }}" alt="Person Thumbnail">
+            {%- endif -%}
+            <div class="card-body">
+                {%- if person.title -%}
+                <p class="card-subtitle text-muted truncate-text">{{ person.title | uppercase }}</p>
+                {%- endif -%}
+
+                {%- if person.name -%}
+                <h3 class="card-title truncate-text">{{ person.name | uppercase }}</h3>
+                {%- endif -%}
+
+                {%- if person.description -%}
+                <p class="card-text">{{ person.description }}</p>
+                {%- endif -%}
+
+                {%- if person.github -%}
+                <a href="{{ person.github }}" class="btn btn-primary">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                {%- endif -%}
+            </div>
+        </a>
+    </div>
+</div>

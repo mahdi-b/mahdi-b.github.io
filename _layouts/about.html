@@ -2,76 +2,127 @@
 layout: default
 ---
 
-<!-- about.html -->
-      <div class="post">
-        <header class="post-header">
-          <h1 class="post-title">
-            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-        </header>
+<!-- Custom CSS -->
+<style>
+  /* Importing Google Fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
-        <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+  /* Applying global styles */
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+  }
 
-              {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
+  /* Header styles */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+  }
 
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=page.profile.image
-              cache_bust=true -%}
-            {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
-          </div>
-          {%- endif %}
+  /* Hero image styles */
+  /* Hero image styles */
+  .hero-image {
+    background-image: url("{{'assets/img/hero.png' | relative_url}}");
+    background-size: cover;
+    height: 60vh;
 
-          <div class="clearfix">
-            {{ content }}
-          </div>
+    margin-bottom: 2rem;
+    margin-left: -10%;  /* 5% extra width on the left */
+    margin-right: -10%; /* 5% extra width on the right */
+    width: calc(100% + 20%);  /* initial 100% width + 10% extra width */
+  }
 
-          <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
-          {%- endif %}
 
-          <!-- Latest posts -->
-          {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
-            {%- include latest_posts.html %}
-          {%- endif %}
+  /* Section spacing */
+  .section {
+    margin: 2rem 0;
+  }
 
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
+  /* Social icon layout */
+  .social .contact-icons {
+    display: flex;
+    gap: 1rem;
+  }
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
+  /* Footer styles */
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background-color: #ffffff;
+  }
 
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
+  .footer .social,
+  .footer .img-logos-footer {
+    flex: 1;
+  }
 
-            </div>
-          {%- endif %}
-        </article>
+  .img-logos-footer {
+    display: flex;
+    justify-content: flex-end;
+  }
 
+  .img-logo-footer {
+    margin: 0 1rem;
+    text-align: center;
+  }
+</style>
+
+<div class="post">
+  <article>
+    <!-- Hero Image -->
+    <div class="hero-image"></div>
+
+    <!-- Main Content -->
+    <section class="clearfix section">
+      {{ content }}
+    </section>
+
+    <!-- News Section -->
+    {% if page.news and site.announcements.enabled %}
+    <section class="section">
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+      {% include news.html limit=true %}
+    </section>
+    {% endif %}
+
+    <!-- Latest Posts Section -->
+    {% if page.latest_posts %}
+    <section class="section">
+      <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Latest Posts</a></h2>
+      {% include latest_posts.html %}
+    </section>
+    {% endif %}
+
+    <!-- Social Section -->
+    {% if page.social %}
+    <section class="footer">
+      <!-- Social Section -->
+      <div class="social section">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+        <div class="contact-note">
+          {{ site.contact_note }}
+        </div>
+      </div>
+
+      <!-- Logo Section -->
+      <div class="img-logos-footer section">
+        <div class="img-logo-footer">
+          <img src="assets/img/logo_100.png" width="70" height="70" alt="" class="image-5">
+          <a href="#">HIDSI</a>
+        </div>
+        <div class="img-logo-footer">
+          <img src="assets/img/HIMB_bw_logo_100.png" width="70" height="70" alt="" class="image">
+          <a href="#">HIMB</a>
+        </div>
+        <div class="img-logo-footer">
+          <img src="assets/img/ICS_logo_105.png" width="70" height="70" alt="">
+          <a href="#">ICS</a>
+        </div>
+      </div>
+    </section>
+    {% endif %}
+  </article>
 </div>

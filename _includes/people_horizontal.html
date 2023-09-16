@@ -1,0 +1,34 @@
+<!-- _includes/people_horizontal.html -->
+<div class="col-md-4 mb-3">
+    <div class="card h-100">
+        <!-- Conditional Link -->
+        <a href="{{ person.redirect | default: person.url | relative_url }}">
+            <!-- Show Image -->
+            {%- if person.img -%}
+            <img class="card-img-top" src="{{ person.img | relative_url }}" alt="Person Thumbnail">
+            {%- endif -%}
+            <!-- Show Card Body -->
+            <div class="card-body">
+                <!-- Show Title -->
+                {%- if person.title -%}
+                <p class="card-subtitle text-muted">{{ person.title | uppercase }}</p>
+                {%- endif -%}
+
+                <!-- Show Name -->
+                {%- if person.name -%}
+                <h3 class="card-title">{{ person.name | uppercase }}</h3>
+                {%- endif -%}
+
+                <!-- Show Description -->
+                <p class="card-text">{{ person.description }}</p>
+
+                <!-- Show GitHub Link -->
+                {%- if person.github -%}
+                <a href="{{ person.github }}" class="btn btn-primary">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                {%- endif -%}
+            </div>
+        </a>
+    </div>
+</div>
