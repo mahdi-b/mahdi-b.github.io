@@ -8,7 +8,7 @@ giscus_comments: false
 related_posts: false
 ---
 
-###  How Our Students Used ChatGPT to Build an Expense-Tracking App in Just Two Weeks
+###  How SAIL Interns Used ChatGPT to Build an Expense-Tracking App in Just Two Weeks
 
 <br/>
 The past summer has been quite a fun ride for our Lab. 
