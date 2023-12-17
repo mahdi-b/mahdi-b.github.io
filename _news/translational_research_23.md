@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: Reflecting on Translational Research Endeavor in the Context of SAGE3.
 date: 2023-09-01
 published: true
