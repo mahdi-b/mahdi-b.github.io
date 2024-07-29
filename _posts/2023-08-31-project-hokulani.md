@@ -2,7 +2,7 @@
 layout: post
 title: Unleashing the Power of AI
 date: 2023-08-31 08:57:00-0400
-description: Students with no programming experience build app in two weeks  
+description: Students with no programming experience build app in two weeks.  
 categories: education
 giscus_comments: false
 related_posts: false

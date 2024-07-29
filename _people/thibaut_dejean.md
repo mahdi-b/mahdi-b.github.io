@@ -1,11 +1,10 @@
 ---
 layout: page
-name: Akib Sadmanee
+name: Thibaut Dejean
 title: MSc Student
-description: LLM for Document Analytics
+description: Biologically Aware Context Encoding in LLMs
 img: assets/img/hero_new.png
 importance: 2
 category: current
 ---
-
 

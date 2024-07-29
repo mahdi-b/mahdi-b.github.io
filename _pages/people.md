@@ -59,6 +59,7 @@ horizontal: true
 
 
 <h3 class="card-title truncate-text">{{ "Cedric Arisdakessian" | uppercase }}, ICS</h3>
+<h3 class="card-title truncate-text">{{ "Michael Rogers" | uppercase }}, ICS</h3>
 <h3 class="card-title truncate-text">{{ "Nima Azbijari" | uppercase }}, ICS</h3>
 <h3 class="card-title truncate-text">{{ "Sushil Shrestha" | uppercase }}, ICS</h3>
 <h3 class="card-title truncate-text">{{ "Ethan Chow" | uppercase }}, ICS</h3>
