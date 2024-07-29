@@ -3,7 +3,7 @@ layout: page
 name: Mahdi Belcaid
 title: Assistant Professor
 description: Bioinformatics, Language models, AI Cyber Infrastructure
-img: assets/img/hero.png
+img: assets/img/hero_new.png
 importance: 1
 category: current
 ---
