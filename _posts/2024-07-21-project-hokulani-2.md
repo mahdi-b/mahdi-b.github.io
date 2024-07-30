@@ -9,6 +9,7 @@ related_posts: false
 ---
 
 ###  High School Interns Develop ChatGPT-Powered Electronic Medical Record System Prototype
+<br/>
 
 There’s a lot of excitement around AI these days, and for good reason – it’s transforming industries and reshaping the way we live and work. Every year, as part of the Hokulani Project, our lab hosts interns who learn about AI and take on exciting and innovative AI projects. This internship is not just about coding or algorithms; it’s about teaching the students to innovate, and push the boundaries of what’s possible with AI.
 
