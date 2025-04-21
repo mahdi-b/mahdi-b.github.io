@@ -8,9 +8,12 @@ importance: 1
 category: current
 ---
 
-I am an Assistant Research Professor at the University of Hawaii Manoa, with appointments in Information & Computer Sciences and the Hawaii 
-Institute of Marine Biology. I previously served as the Associate Director of the Hawaii Data Science Institute and as Director of the UH Bioinformatics Core.  My work focuses primarily on modeling biological big data, with an emphasis on machine learning (language models) and probabilistic algorithms. 
-In addition to bioinformatics, I am also interested in data science education and integrating AI models to facilitate collaborative research, decision making and document analytics.
+I am an Associate Research Professor and Associate Chair of Information and Computer Sciences at the University of Hawai‘i at Mānoa, with research appointment in the Hawai‘i Institute of Marine Biology.
+
+Previously, I served as the Associate Director of the Hawai‘i Data Science Institute and Director of the UH Bioinformatics Core. My research focuses on modeling biological big data, particularly through machine learning (language models) and probabilistic algorithms.
+
+Beyond bioinformatics, I have a strong interest in data science education and the integration of AI models to enhance collaborative research, decision-making, and document analytics.
+
 
 
 

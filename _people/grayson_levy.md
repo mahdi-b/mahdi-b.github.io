@@ -1,10 +1,12 @@
 ---
 layout: page
-name: Michael Rogers
+name: Grayson Levy
 title: MSc Student
-description: Biologically Aware Context Encoding in LLMs
+description: Stance Detection Using Language Models
 img: assets/img/hero_new.png
 importance: 2
 category: current
 ---
+
+
 

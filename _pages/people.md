@@ -58,6 +58,8 @@ horizontal: true
 <h2 class="category mb-3">{{ "Former" | upcase }}</h2> <!-- Added mb-3 for bottom margin -->
 
 
+<h3 class="card-title truncate-text">{{ "Candace Edwards" | uppercase }}, ICS</h3>
+<h3 class="card-title truncate-text">{{ "Andy Yu" | uppercase }}, ICS</h3>
 <h3 class="card-title truncate-text">{{ "Cedric Arisdakessian" | uppercase }}, ICS</h3>
 <h3 class="card-title truncate-text">{{ "Michael Rogers" | uppercase }}, ICS</h3>
 <h3 class="card-title truncate-text">{{ "Nima Azbijari" | uppercase }}, ICS</h3>
