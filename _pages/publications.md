@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order. 
+description: Peer-reviewed research, conference papers, and preprints from SAIL and its collaborators.
 nav: true
 nav_order: 1
 ---

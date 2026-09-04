@@ -10,13 +10,15 @@
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}{% if page.url == '/' %} page-home{% endif %}">
+
+    <a class="skip-link" href="#main-content">Skip to content</a>
 
     <!-- Header -->
     {%- include header.html %}
 
     <!-- Content -->
-    <div class="container mt-5">
+    <main id="main-content" class="site-main">
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == "right" %}
         <div class="row">
@@ -42,9 +44,9 @@
         </div>
         {% endif %}
       {% else %}
-        {{ content }}
+        <div class="container">{{ content }}</div>
       {% endif %}
-    </div>
+    </main>
 
     <!-- Footer -->
     {%- include footer.html %}

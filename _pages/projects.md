@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: Three connected research tracks spanning biological language models, scientific intelligence, and collaborative research systems.
 nav: true
 nav_order: 2
 #display_categories: [bioinformatics, daa]

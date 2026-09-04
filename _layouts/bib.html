@@ -35,6 +35,23 @@
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
 
+        {%- if author_array_size == 0 and entry.author -%}
+          {%- assign raw_authors = entry.author | split: " and " -%}
+          {%- for raw_author in raw_authors -%}
+            {%- assign author_parts = raw_author | split: ", " -%}
+            {%- if forloop.first == false -%},&nbsp;{%- endif -%}
+            {%- if forloop.last and raw_authors.size > 1 -%}and&nbsp;{%- endif -%}
+            {%- if author_parts.size > 1 -%}
+              {%- assign raw_last_name = author_parts[0] | strip -%}
+              {%- if site.scholar.last_name contains raw_last_name -%}<em>{%- endif -%}
+              {{- author_parts[1] | latex }} {{ author_parts[0] | latex -}}
+              {%- if site.scholar.last_name contains raw_last_name -%}</em>{%- endif -%}
+            {%- else -%}
+              {{- raw_author | latex -}}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+
         {% assign author_array_limit = author_array_size %}
         {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
           {% assign author_array_limit = site.max_author_limit %}

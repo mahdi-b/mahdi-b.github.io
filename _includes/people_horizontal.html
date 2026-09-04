@@ -1,22 +1,22 @@
 <!-- _includes/people_horizontal.html -->
 <div class="col-md-4 mb-3">
     <div class="card h-100">
+        {% assign person_name_parts = person.name | split: ' ' %}
         <!-- Conditional Link -->
         <a href="{{ person.redirect | default: person.url | relative_url }}">
-            <!-- Show Image -->
-            {%- if person.img -%}
-            <img class="card-img-top" src="{{ person.img | relative_url }}" alt="Person Thumbnail">
-            {%- endif -%}
             <!-- Show Card Body -->
             <div class="card-body">
+                <div class="person-card-mark" aria-hidden="true">
+                    <span>{{ person_name_parts[0] | slice: 0, 1 }}{{ person_name_parts[-1] | slice: 0, 1 }}</span>
+                </div>
                 <!-- Show Title -->
                 {%- if person.title -%}
-                <p class="card-subtitle text-muted">{{ person.title | uppercase }}</p>
+                <p class="card-subtitle text-muted">{{ person.title }}</p>
                 {%- endif -%}
 
                 <!-- Show Name -->
                 {%- if person.name -%}
-                <h3 class="card-title">{{ person.name | uppercase }}</h3>
+                <h3 class="card-title">{{ person.name }}</h3>
                 {%- endif -%}
 
                 <!-- Show Description -->
