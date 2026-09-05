@@ -416,7 +416,7 @@ h1, h2, h3, h4, h5, h6 { font-family: var(--sail-sans); letter-spacing: -.025em;
 .compact-news-list span { font-size: .96rem; }
 .compact-news-list a > span:last-child { font-size: 1.3rem; line-height: 1; text-align: right; }
 
-.lab-contact { display: grid; grid-template-columns: .8fr 1.1fr; gap: 80px; padding: 70px 0 82px; }
+.lab-contact { display: grid; grid-template-columns: .8fr 1.1fr; gap: 56px; align-items: center; padding: 48px 0 52px; }
 .lab-contact > div:last-child { max-width: 600px; }
 .lab-contact p { margin: 0 0 16px; color: var(--sail-muted); font-size: 1rem; }
 .lab-contact a { color: var(--sail-blue); font-size: 1rem; font-weight: 700; }
@@ -509,3 +509,174 @@ h1, h2, h3, h4, h5, h6 { font-family: var(--sail-sans); letter-spacing: -.025em;
 .research-list > a:last-child { border-bottom: 0; }
 .alumni-list p:last-child { border-bottom: 0; }
 .publication-list article:last-child { border-bottom: 0; }
+
+/* Line icons — thin, geometric, sized in place of the old Font Awesome glyphs. */
+.sail-icon { display: inline-block; width: 1.15em; height: 1.15em; vertical-align: -.22em; flex: none; }
+.lab-facts dt .sail-icon { width: 17px; height: 17px; color: #4f8b82; }
+.research-index .sail-icon { width: 22px; height: 22px; }
+.research-list > a > .sail-icon { align-self: center; width: 19px; height: 19px; color: var(--sail-muted); transition: transform .2s ease; }
+.research-list > a:hover > .sail-icon { transform: translateX(4px); color: var(--sail-blue); }
+.compact-news-list a > .sail-icon { align-self: center; justify-self: end; width: 17px; height: 17px; color: var(--sail-muted); transition: transform .2s ease; }
+.compact-news-list a:hover > .sail-icon { transform: translateX(4px); color: var(--sail-blue); }
+
+
+/* --------------------------------------------------------------------------
+   Deep ocean identity
+   A dark, full-bleed masthead over a light body: rounded containers, deep teal
+   as the working color, and a pale aqua reserved for the dark ground only.
+   -------------------------------------------------------------------------- */
+:root {
+  --sail-ink: #16211f;
+  --sail-paper: #ffffff;
+  --sail-paper-2: #eef4f2;
+  --sail-deep: #0c2b2c;
+  --sail-deep-2: #123f3c;
+  --sail-blue: #0f6b60;
+  --sail-accent: #4fcfbe;
+  --sail-line: #dfe6e3;
+  --sail-muted: #5d6b68;
+  --sail-card: #ffffff;
+}
+
+body { background: var(--sail-paper); }
+
+/* Dark sticky header */
+.site-header .navbar { background: rgba(12,43,44,.92); border-bottom: 1px solid rgba(255,255,255,.12); backdrop-filter: blur(14px); }
+.sail-brand, .sail-wordmark, .sail-lab-label { color: #fff !important; }
+.sail-mark { color: var(--sail-accent); }
+.sail-lab-label { border-left-color: rgba(255,255,255,.3); }
+.navbar.navbar-light .navbar-nav .nav-item .nav-link,
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:not(.active):not(:hover) { color: rgba(255,255,255,.82); }
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover { color: #fff; }
+.navbar.navbar-light .navbar-nav .nav-item .nav-link.active { color: #fff; }
+.navbar.navbar-light .navbar-nav .nav-item .nav-link.active::after { background: var(--sail-accent); }
+.navbar.navbar-light .nav-cta .nav-link { border: 1px solid var(--sail-accent); color: #fff; }
+.navbar.navbar-light .nav-cta .nav-link:hover { background: var(--sail-accent); color: #0a2223; }
+#light-toggle { color: #fff; }
+
+/* Full-bleed dark masthead with a slow, living gradient */
+.lab-intro { position: relative; padding: 88px 0 84px; border-bottom: 0; color: #fff; }
+.lab-intro::before {
+  content: ""; position: absolute; z-index: -2; top: 0; left: 50%; transform: translateX(-50%);
+  width: 100vw; height: 100%;
+  background:
+    radial-gradient(120% 90% at 12% 0%, #17514a 0%, transparent 55%),
+    radial-gradient(90% 80% at 88% 110%, #0e6b5d 0%, transparent 60%),
+    linear-gradient(140deg, var(--sail-deep), var(--sail-deep-2));
+}
+.lab-intro::after {
+  content: ""; position: absolute; z-index: -1; top: 0; left: 50%; transform: translateX(-50%);
+  width: 100vw; height: 100%; opacity: .5;
+  background:
+    linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.06) 1px, transparent 1px);
+  background-size: 64px 64px;
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,.9), transparent 88%);
+  animation: sail-drift 26s linear infinite;
+}
+@keyframes sail-drift { to { background-position: 64px 64px, 64px 64px; } }
+
+.lab-intro h1 { color: #fff; font-size: clamp(2.4rem, 4vw, 3.6rem); font-weight: 600; }
+.lab-lede { color: rgba(255,255,255,.78); font-size: 1.18rem; }
+.lab-intro .lab-kicker { color: var(--sail-accent); }
+.lab-intro .lab-kicker::before { background: var(--sail-accent); }
+.lab-intro-links a { color: #fff; text-decoration-color: var(--sail-accent); }
+.lab-intro-links a:hover { color: var(--sail-accent); }
+.lab-facts { border-left-color: rgba(255,255,255,.24); }
+.lab-facts dt { color: rgba(255,255,255,.62); }
+.lab-facts dt .sail-icon { color: var(--sail-accent); }
+.lab-facts dd { color: #fff; }
+
+/* Sections */
+.lab-kicker { color: var(--sail-blue); }
+.lab-kicker::before { background: var(--sail-blue); }
+.lab-section { padding: 60px 0; }
+.lab-section-header h2, .lab-contact h2 { font-size: clamp(1.75rem, 2.4vw, 2.2rem); font-weight: 650; }
+
+/* Research rows become cards with an accent edge on hover */
+.research-list > a { padding: 22px 20px 22px 0; border-left: 3px solid transparent; transition: background .2s, border-color .2s, padding-left .2s; }
+.research-list > a:hover { background: var(--sail-paper-2); border-left-color: var(--sail-blue); padding-left: 18px; color: var(--sail-ink); }
+.research-index .sail-icon { color: var(--sail-blue); }
+.research-index small { color: var(--sail-blue); }
+
+/* Publications plate */
+.lab-publications { position: relative; padding: 64px 40px; border-bottom: 0; }
+.lab-publications::before {
+  content: ""; position: absolute; z-index: -1; inset: 0 auto; top: 0; left: 50%; transform: translateX(-50%);
+  width: 100vw; height: 100%; background: var(--sail-paper-2);
+}
+.compact-publication-list .publication-meta { color: var(--sail-blue); }
+.compact-publication-list article { border-bottom-color: var(--sail-line); }
+.compact-publication-list article:hover h3 { color: var(--sail-blue); }
+
+.compact-news-list time { color: var(--sail-blue); font-weight: 700; }
+.compact-avatar { background: var(--sail-paper-2); color: var(--sail-blue); }
+.compact-team-grid > a:hover .compact-avatar { background: var(--sail-blue); color: #fff; }
+
+/* Contact on the deep ground, closing the page as it opened */
+.lab-contact { position: relative; padding: 40px 40px 42px; color: #fff; }
+.lab-contact::before {
+  content: ""; position: absolute; z-index: -1; top: 0; left: 50%; transform: translateX(-50%);
+  width: 100vw; height: 100%; background: linear-gradient(140deg, var(--sail-deep), var(--sail-deep-2));
+}
+.lab-contact h2 { color: #fff; }
+.lab-contact .lab-kicker { color: var(--sail-accent); }
+.lab-contact p { color: rgba(255,255,255,.78); }
+.lab-contact a { color: var(--sail-accent); }
+
+.site-footer { background: #0a2223; color: #fff; border-top: 0; }
+.site-footer p, .site-footer a, .sail-brand-footer { color: #fff !important; }
+.site-footer .footer-kicker { color: rgba(255,255,255,.6) !important; }
+.site-footer-bottom { border-top-color: rgba(255,255,255,.16); }
+
+.category, .publications .publication-meta { color: var(--sail-blue); }
+.publications .title:hover { color: var(--sail-blue); }
+
+@media (prefers-reduced-motion: reduce) { .lab-intro::after { animation: none; } }
+@media (max-width: 767px) { .lab-publications, .lab-contact { padding-left: 20px; padding-right: 20px; } }
+
+/* Rounded containers, ocean edition */
+.lab-facts { padding: 26px; border-left: 0; border: 1px solid rgba(255,255,255,.2); border-radius: 16px; background: rgba(255,255,255,.07); backdrop-filter: blur(6px); }
+.research-list { border-top: 0; display: grid; gap: 12px; }
+.research-list > a { padding: 20px 22px; border: 1px solid var(--sail-line); border-left: 3px solid transparent; border-radius: 14px; background: var(--sail-card); }
+.research-list > a:hover { background: var(--sail-paper-2); padding-left: 20px; }
+.compact-publication-list { border-top: 0; display: grid; gap: 10px; }
+.compact-publication-list article { padding: 18px 22px; border: 1px solid #dbe5e2; border-radius: 14px; background: var(--sail-card); }
+.compact-news-list { border-top: 0; display: grid; gap: 8px; }
+.compact-news-list a { padding: 14px 22px; border: 1px solid var(--sail-line); border-radius: 12px; background: var(--sail-card); }
+.compact-news-list a:hover { border-color: var(--sail-blue); }
+.lab-contact { border-radius: 20px; margin-top: 14px; margin-bottom: 72px; }
+.lab-contact::before { border-radius: 20px; width: auto; left: 0; right: 0; transform: none; }
+.lab-section { border-bottom: 0; }
+.publications h2.bibliography { color: var(--sail-blue); border-bottom-color: var(--sail-line); }
+
+/* Card corners match the containers used on the home page. */
+.projects .card, .people .card { border: 1px solid var(--sail-line); border-radius: 14px; overflow: hidden; }
+.projects .card:hover, .people .card:hover { border-color: var(--sail-blue); }
+.person-card-mark { background: var(--sail-paper-2) !important; color: var(--sail-blue) !important; }
+.news .table tr:hover { background: var(--sail-paper-2); }
+.projects .card-body { min-height: 0; padding: 22px 24px 24px; }
+
+/* Dark mode: repaint the surfaces the deep-ocean system hardcodes. */
+html[data-theme='dark'] {
+  --sail-paper-2: #16232a;
+  --sail-card: #17222a;
+  --sail-line: rgba(242,239,231,.16);
+  --sail-blue: #6fd3c4;
+  --sail-accent: #4fcfbe;
+  --sail-muted: #a3b0b3;
+}
+html[data-theme='dark'] body { background: #0f171c; }
+html[data-theme='dark'] .lab-publications::before { background: #131e24; }
+html[data-theme='dark'] .research-list > a:hover,
+html[data-theme='dark'] .compact-news-list a:hover { background: #1b272e; color: var(--sail-blue); }
+html[data-theme='dark'] .compact-publication-list article:hover h3 { color: var(--sail-blue); }
+html[data-theme='dark'] .compact-avatar { background: #1b272e; color: var(--sail-blue); }
+html[data-theme='dark'] .projects .card, html[data-theme='dark'] .people .card { background: var(--sail-card); }
+html[data-theme='dark'] .person-card-mark { background: #1b272e !important; color: var(--sail-blue) !important; }
+html[data-theme='dark'] .news .table tr:hover { background: #1b272e; }
+
+/* Research rows: icon and numeral centered in their column. */
+.research-index { align-items: center; justify-items: center; gap: 8px; text-align: center; }
+.research-index .sail-icon { width: 24px; height: 24px; }
+.research-index small { font-size: .9rem; letter-spacing: .04em; }

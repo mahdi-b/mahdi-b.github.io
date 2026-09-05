@@ -5,7 +5,6 @@ layout: default
 <article class="lab-home">
   <section class="lab-intro" aria-labelledby="home-title">
     <div class="lab-intro-main">
-      <p class="lab-kicker">University of Hawaiʻi at Mānoa</p>
       <h1 id="home-title">Scalable Analytics and Informatics Laboratory</h1>
       <p class="lab-lede">We develop machine-learning methods and scientific software for biological data, document intelligence, and collaborative research.</p>
       <div class="lab-intro-links">
@@ -14,9 +13,9 @@ layout: default
       </div>
     </div>
     <dl class="lab-facts">
-      <div><dt><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Based in</dt><dd>Honolulu, Hawaiʻi</dd></div>
-      <div><dt><i class="fas fa-university" aria-hidden="true"></i>Affiliations</dt><dd>Information &amp; Computer Sciences<br>Hawaiʻi Institute of Marine Biology</dd></div>
-      <div><dt><i class="fas fa-microscope" aria-hidden="true"></i>Research areas</dt><dd>Computational biology<br>Language models<br>Scientific software</dd></div>
+      <div><dt>{% include icon.html name="pin" %}Based in</dt><dd>Honolulu, Hawaiʻi</dd></div>
+      <div><dt>{% include icon.html name="institution" %}Affiliations</dt><dd>Information &amp; Computer Sciences<br>Hawaiʻi Institute of Marine Biology</dd></div>
+      <div><dt>{% include icon.html name="flask" %}Research areas</dt><dd>Computational biology<br>Language models<br>Scientific software</dd></div>
     </dl>
   </section>
 
@@ -27,19 +26,19 @@ layout: default
     </header>
     <div class="research-list">
       <a href="{{ '/projects/viral-g2p/' | relative_url }}">
-        <span class="research-index"><i class="fas fa-dna" aria-hidden="true"></i><small>01</small></span>
+        <span class="research-index">{% include icon.html name="protein" %}<small>01</small></span>
         <div><h3>Biological language models</h3><p>Protein and genome representations for viral function, phenotype, and ecology.</p></div>
-        <span aria-hidden="true">→</span>
+        {% include icon.html name="arrow" %}
       </a>
       <a href="{{ '/projects/accelerate-ds/' | relative_url }}">
-        <span class="research-index"><i class="fas fa-file-alt" aria-hidden="true"></i><small>02</small></span>
+        <span class="research-index">{% include icon.html name="document" %}<small>02</small></span>
         <div><h3>Scientific and document intelligence</h3><p>Language-aware methods for semantic typing, interpretation, and research decision-making.</p></div>
-        <span aria-hidden="true">→</span>
+        {% include icon.html name="arrow" %}
       </a>
       <a href="{{ '/projects/SAGE/' | relative_url }}">
-        <span class="research-index"><i class="fas fa-project-diagram" aria-hidden="true"></i><small>03</small></span>
+        <span class="research-index">{% include icon.html name="network" %}<small>03</small></span>
         <div><h3>Scientific software</h3><p>Scalable, reproducible environments for data-rich scientific collaboration.</p></div>
-        <span aria-hidden="true">→</span>
+        {% include icon.html name="arrow" %}
       </a>
     </div>
   </section>
@@ -81,13 +80,13 @@ layout: default
     <div class="compact-news-list">
       {% assign home_news = site.news | sort: 'date' | reverse %}
       {% for item in home_news limit: 4 %}
-        <a href="{{ item.url | relative_url }}"><time>{{ item.date | date: "%b %Y" }}</time><span>{{ item.title }}</span><span aria-hidden="true">→</span></a>
+        <a href="{{ item.url | relative_url }}"><time>{{ item.date | date: "%b %Y" }}</time><span>{{ item.title }}</span>{% include icon.html name="arrow" %}</a>
       {% endfor %}
     </div>
   </section>
 
   <section class="lab-contact" aria-labelledby="contact-title">
     <div><p class="lab-kicker">Contact</p><h2 id="contact-title">Work with us</h2></div>
-    <div><p>We welcome conversations with students, researchers, and collaborators working at the intersection of computation and science.</p><a href="mailto:belcaid@hawaii.edu">belcaid@hawaii.edu</a></div>
+    <div><p>We welcome conversations with students, researchers, and collaborators working at the intersection of computation and science.</p><a href="mailto:mahdi@hawaii.edu">Email the lab &#8599;</a></div>
   </section>
 </article>
