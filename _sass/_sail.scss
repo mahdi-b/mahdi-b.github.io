@@ -680,3 +680,7 @@ html[data-theme='dark'] .news .table tr:hover { background: #1b272e; }
 .research-index { align-items: center; justify-items: center; gap: 8px; text-align: center; }
 .research-index .sail-icon { width: 24px; height: 24px; }
 .research-index small { font-size: .9rem; letter-spacing: .04em; }
+
+/* Research rows without the icon/numeral column. */
+.research-list > a { grid-template-columns: minmax(0, 1fr) 28px; }
+@media (max-width: 767px) { .research-list > a { grid-template-columns: minmax(0, 1fr) 18px; } }
